@@ -11,7 +11,7 @@ A lightweight, purely native Windows  script that safely detects, uninstalls, an
 
 
 ### How to Use
-1. Download [Releases](https://github.com/Mightyiest/blender-uninstaller-script/releases) and run it by double-clicking.
+1. Download [Releases](https://github.com/Mightyiest/blender-uninstaller-script/releases) and run it by double-clicking. (run as admin - much better)
 2. Follow the on-screen menu to detect and clean up your installations!
 
 ### Sample

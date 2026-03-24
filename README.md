@@ -3,10 +3,10 @@
 A lightweight, purely native Windows  script that safely detects, uninstalls, and cleans up all scattered traces of Blender installations on your PC.
 
 ### Features
-- 🔍 **Deep Detection:** Scans both Windows Registry and common fallback directories.
-- 🧹 **User Data Cleanup:** Automatically maps version numbers to optionally purge `%AppData%` and `%LocalAppData%` preferences.
-- 🚀 **Bulk Removal:** Built-in "Uninstall All" command to wipe all detected versions at once.
-- 🛡️ **No Dependencies:** Strictly native functionality. No PowerShell or external downloads required!
+- **Deep Detection:** Scans both Windows Registry and common fallback directories.
+- **User Data Cleanup:** Automatically maps version numbers to optionally purge `%AppData%` and `%LocalAppData%` preferences.
+- **Bulk Removal:** Built-in "Uninstall All" command to wipe all detected versions at once.
+- **No Dependencies:** Strictly native functionality. No PowerShell or external downloads required!
 
 
 
